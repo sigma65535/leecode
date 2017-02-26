@@ -6,6 +6,7 @@ package com.leetcode;
  *  The Next Greater Number of a number x in nums1 is the first greater number 
  *  to its right in nums2. If it does not exist, output -1 for this number.
 */
+
 public class Next_Greater_Element_I {
     public int[] nextGreaterElement(int[] findNums, int[] nums) {
 	
