@@ -18,7 +18,7 @@ public class Detect_Capital {
     
     /*
      * word 1.第一个字母是小写时，后边全是小写，则true.
-     * 	    2..........大写时，后边是大小写一直，则true.
+     * 	    2.@return 大写时，后边大小写一一致(全为大写或者全为小写)，则true.
      * 	    
      */
 
